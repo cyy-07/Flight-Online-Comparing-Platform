@@ -1,3 +1,3 @@
 # Flight-Online-Comparing-Platform
-This is my cs009C project in Fall 2026: 
+This is my cs009C project in Fall 2025: 
 Flight Compare is a C++ object-oriented flight comparison platform that simulates real-world booking systems. The project features user authentication, multi-provider flight search (airlines and third-party vendors), and a polymorphic fare calculation system with dynamic pricing for Economy and First Class. Built with five core classes, it demonstrates inheritance hierarchies, STL containers for data management, and pointer-based flight selection, showcasing strong OOP principles and algorithmic design in a practical application scenario.
